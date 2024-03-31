@@ -1,0 +1,67 @@
+.form-select{
+    width:fit-content;
+    margin:60px auto !important;
+}
+footer{
+    height:76px;
+    box-shadow: 0 0 1rem 0.40rem rgba(var(--bs-body-color-rgb),0.15) !important;    
+    display: block;
+    unicode-bidi: isolate;
+    color:green;
+}
+
+.py-3 {
+    padding-top: 1rem !important;
+}
+
+.my-4 {
+    margin-top: 1.5rem !important;
+}
+.align-items-center {
+    align-items: center !important;
+}
+.justify-content-between {
+    justify-content: space-between !important;
+}
+.flex-wrap {
+    flex-wrap: wrap !important;
+}
+
+.d-flex {
+    display: flex !important;
+}
+
+.bus-card{
+background-color:rgb(224, 224, 224);
+border-radius: 20px;
+padding:15px 30px;
+
+}
+
+.title-bus{
+font-size:50px;
+font-weight: 700;
+text-transform: uppercase;
+}
+.bus-line{
+margin:0 0 20px 0;
+font-weight: 500;
+}
+.bus-number{
+    position:absolute;
+    margin-top:30px;
+    padding:1px 20px;
+    color:white !important;
+    font-weight: 700;
+    font-size:20px;
+}
+
+.title-escription{
+    margin:20px auto;
+    font-size:larger;
+    font-weight: 600;
+}
+.bus{
+font-weight: bolder;
+
+}
